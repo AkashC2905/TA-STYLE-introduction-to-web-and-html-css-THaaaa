@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(31, 31, 90);
+}
+h1{
+    color: azure;
+}
+address{
+    color: azure;
+    font-size: 24px;
+}
+h2{
+    color: rgb(7, 189, 7);
+}
+h3 , p {
+    color: aliceblue;
+}
+a{
+    color: red;
+}
