@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(34,57,106);
+}
+header{
+    text-align: center;
+}
+address{
+    color: white;
+}
+h1{
+    color: white;
+}
+h2{
+    color: rgb(49,187,101);
+}
+h3{
+    color: white;
+}
+p{
+    color: white;
+}
+a{
+    margin: 10px;
+    color: red;
+}
+footer{
+    text-align: center;
+    background-color: rgb(17,36,77);
+    padding: 10px;
+}
